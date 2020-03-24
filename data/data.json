@@ -3,28 +3,28 @@
         {
             "id": 0,
             "project_name": "Quote Generator",
-            "description": "my project does this",
-            "technologies": ["tech0", "tech1", "tech2"],
+            "description": "An introduction projectect to JavaScript",
+            "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://urlplaceholder.com",
-            "github_link": "https://github.com/agalyanmann/placeholder",
+            "github_link": "https://github.com/agalyanmann/techdegree-project-1",
             "image_urls": ["/path0", "/path1", "path2"]
         },
         {
             "id": 1,
             "project_name": "List Pagination and Filtering",
-            "description": "my project does this",
-            "technologies": ["tech0", "tech1", "tech2"],
+            "description": "A client side search that dynamically adjust based on search results",
+            "technologies": ["jQuery", "HTML", "CSS"],
             "live_link": "https://urlplaceholder.com",
-            "github_link": "https://github.com/agalyanmann/placeholder",
+            "github_link": "https://github.com/agalyanmann/techdegree-project-2",
             "image_urls": ["/path0", "/path1", "path2"]
         },
         {
             "id": 2,
             "project_name": "Form Validation",
-            "description": "my project does this",
-            "technologies": ["tech0", "tech1", "tech2"],
+            "description": "An interactive registration form that focuses on jQuery and Validation",
+            "technologies": ["JavaScript", "jQuery", "HTML", "CSS", "Regular Expressions"],
             "live_link": "https://urlplaceholder.com",
-            "github_link": "https://github.com/agalyanmann/placeholder",
+            "github_link": "https://github.com/agalyanmann/techdegree-project-3",
             "image_urls": ["/path0", "/path1", "path2"]
         },
         {
@@ -33,7 +33,7 @@
             "description": "my project does this",
             "technologies": ["tech0", "tech1", "tech2"],
             "live_link": "https://urlplaceholder.com",
-            "github_link": "https://github.com/agalyanmann/placeholder",
+            "github_link": "https://github.com/agalyanmann/techdegree-project-4",
             "image_urls": ["/path0", "/path1", "path2"]
         },
         {
@@ -42,7 +42,7 @@
             "description": "my project does this",
             "technologies": ["tech0", "tech1", "tech2"],
             "live_link": "https://urlplaceholder.com",
-            "github_link": "https://github.com/agalyanmann/placeholder",
+            "github_link": "https://github.com/agalyanmann/techdegree-project-5",
             "image_urls": ["/path0", "/path1", "path2"]
         },
         {
@@ -51,7 +51,7 @@
             "description": "my project does this",
             "technologies": ["tech0", "tech1", "tech2"],
             "live_link": "https://urlplaceholder.com",
-            "github_link": "https://github.com/agalyanmann/placeholder",
+            "github_link": "https://github.com/agalyanmann/techdegree-project-6",
             "image_urls": ["/path0", "/path1", "path2"]
         }
     ]
