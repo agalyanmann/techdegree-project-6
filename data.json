@@ -1,0 +1,23 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "placeholder",
+            "description": "my project does this",
+            "technologies": ["tech0", "tech1", "tech2"],
+            "live_link": "https://urlplaceholder.com",
+            "github_link": "https://github.com/agalyanmann/placeholder",
+            "image_urls": ["/path0", "/path1", "path2"]
+        },
+        {
+            "id": 1,
+            "project_name": "placeholder",
+            "description": "my project does this",
+            "technologies": ["tech0", "tech1", "tech2"],
+            "live_link": "https://urlplaceholder.com",
+            "github_link": "https://github.com/agalyanmann/placeholder",
+            "image_urls": ["/path0", "/path1", "path2"]
+        }
+
+    ]
+}
