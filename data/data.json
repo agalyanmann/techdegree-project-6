@@ -2,7 +2,7 @@
     "projects": [
         {
             "id": 0,
-            "project_name": "placeholder",
+            "project_name": "Quote Generator",
             "description": "my project does this",
             "technologies": ["tech0", "tech1", "tech2"],
             "live_link": "https://urlplaceholder.com",
@@ -11,13 +11,48 @@
         },
         {
             "id": 1,
-            "project_name": "placeholder",
+            "project_name": "List Pagination and Filtering",
+            "description": "my project does this",
+            "technologies": ["tech0", "tech1", "tech2"],
+            "live_link": "https://urlplaceholder.com",
+            "github_link": "https://github.com/agalyanmann/placeholder",
+            "image_urls": ["/path0", "/path1", "path2"]
+        },
+        {
+            "id": 2,
+            "project_name": "Form Validation",
+            "description": "my project does this",
+            "technologies": ["tech0", "tech1", "tech2"],
+            "live_link": "https://urlplaceholder.com",
+            "github_link": "https://github.com/agalyanmann/placeholder",
+            "image_urls": ["/path0", "/path1", "path2"]
+        },
+        {
+            "id": 3,
+            "project_name": "Object Oriented JavaScript",
+            "description": "my project does this",
+            "technologies": ["tech0", "tech1", "tech2"],
+            "live_link": "https://urlplaceholder.com",
+            "github_link": "https://github.com/agalyanmann/placeholder",
+            "image_urls": ["/path0", "/path1", "path2"]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Request",
+            "description": "my project does this",
+            "technologies": ["tech0", "tech1", "tech2"],
+            "live_link": "https://urlplaceholder.com",
+            "github_link": "https://github.com/agalyanmann/placeholder",
+            "image_urls": ["/path0", "/path1", "path2"]
+        },
+        {
+            "id": 5,
+            "project_name": "Static Node.js and Express Site",
             "description": "my project does this",
             "technologies": ["tech0", "tech1", "tech2"],
             "live_link": "https://urlplaceholder.com",
             "github_link": "https://github.com/agalyanmann/placeholder",
             "image_urls": ["/path0", "/path1", "path2"]
         }
-
     ]
 }
