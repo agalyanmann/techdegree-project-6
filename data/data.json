@@ -11,7 +11,7 @@
         },
         {
             "id": 1,
-            "project_name": "List Pagination and Filtering",
+            "project_name": "List Pagination & Filtering",
             "description": "A client side search that dynamically adjust based on search results",
             "technologies": ["jQuery", "HTML", "CSS"],
             "live_link": "https://urlplaceholder.com",
@@ -47,7 +47,7 @@
         },
         {
             "id": 5,
-            "project_name": "Static Node.js and Express Site",
+            "project_name": "Node.js & Express Site",
             "description": "my project does this",
             "technologies": ["tech0", "tech1", "tech2"],
             "live_link": "https://urlplaceholder.com",
