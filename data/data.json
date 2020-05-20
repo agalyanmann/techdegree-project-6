@@ -52,7 +52,7 @@
             "technologies": ["tech0", "tech1", "tech2"],
             "live_link": "https://urlplaceholder.com",
             "github_link": "https://github.com/agalyanmann/techdegree-project-6",
-            "image_urls": ["/path0", "/path1", "path2"]
+            "image_urls": ["/static/images/project_6_index.jpg", "/path1", "path2"]
         }
     ]
 }
