@@ -5,7 +5,7 @@
             "project_name": "Quote Generator",
             "description": "An introduction projectect to JavaScript",
             "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "https://urlplaceholder.com",
+            "live_link": "https://agalyanmann.github.io/techdegree-project-1",
             "github_link": "https://github.com/agalyanmann/techdegree-project-1",
             "image_urls": ["/static/images/project_1_index.jpg", "/path1", "path2"]
         },
@@ -14,7 +14,7 @@
             "project_name": "List Pagination & Filtering",
             "description": "A client side search that dynamically adjust based on search results",
             "technologies": ["jQuery", "HTML", "CSS"],
-            "live_link": "https://urlplaceholder.com",
+            "live_link": "https://agalyanmann.github.io/techdegree-project-2",
             "github_link": "https://github.com/agalyanmann/techdegree-project-2",
             "image_urls": ["/static/images/project_2_index.jpg", "/path1", "path2"]
         },
@@ -23,7 +23,7 @@
             "project_name": "Form Validation",
             "description": "An interactive registration form that focuses on jQuery and Validation",
             "technologies": ["JavaScript", "jQuery", "HTML", "CSS", "Regular Expressions"],
-            "live_link": "https://urlplaceholder.com",
+            "live_link": "https://agalyanmann.github.io/techdegree-project-3",
             "github_link": "https://github.com/agalyanmann/techdegree-project-3",
             "image_urls": ["/static/images/project_3_index.jpg", "/path1", "path2"]
         },
@@ -32,7 +32,7 @@
             "project_name": "Object Oriented JavaScript",
             "description": "my project does this",
             "technologies": ["tech0", "tech1", "tech2"],
-            "live_link": "https://urlplaceholder.com",
+            "live_link": "https://agalyanmann.github.io/techdegree-project-4",
             "github_link": "https://github.com/agalyanmann/techdegree-project-4",
             "image_urls": ["/static/images/project_4_index.jpg", "/path1", "path2"]
         },
@@ -41,7 +41,7 @@
             "project_name": "Public API Request",
             "description": "my project does this",
             "technologies": ["tech0", "tech1", "tech2"],
-            "live_link": "https://urlplaceholder.com",
+            "live_link": "https://agalyanmann.github.io/techdegree-project-5",
             "github_link": "https://github.com/agalyanmann/techdegree-project-5",
             "image_urls": ["/static/images/project_5_index.jpg", "/path1", "path2"]
         },
