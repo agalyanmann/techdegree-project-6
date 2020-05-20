@@ -175,9 +175,11 @@ a:hover {
 }
 
 #errHeader a {
-  color: cornflowerblue;
+  color: white;
+  background-color: #073b4c;
+  padding: .5% 1%;
 }
 
-#errLink:hover {
-  color: coral;
+#errHeader a:hover {
+  background-color: #118ab2;
 }
