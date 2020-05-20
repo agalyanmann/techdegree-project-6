@@ -148,3 +148,15 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+#errHeader {
+  text-align: center;
+}
+
+#errLink {
+  color: cornflowerblue;
+}
+
+#errLink:hover {
+  color: coral;
+}
