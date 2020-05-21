@@ -7,7 +7,7 @@
       "technologies": ["JavaScript", "HTML", "CSS"],
       "live_link": "https://agalyanmann.github.io/techdegree-project-1",
       "github_link": "https://github.com/agalyanmann/techdegree-project-1",
-      "image_urls": ["/static/images/project_1_index.jpg", "/path1", "path2"]
+      "image_urls": ["/static/images/project_1_index.jpg", "/static/images/project_1_screenshot.jpg", "/static/images/project_1_screenshot_1.jpg", "/static/images/project_1_screenshot_2.jpg"]
     },
     {
       "id": 1,
@@ -16,7 +16,7 @@
       "technologies": ["jQuery", "HTML", "CSS"],
       "live_link": "https://agalyanmann.github.io/techdegree-project-2",
       "github_link": "https://github.com/agalyanmann/techdegree-project-2",
-      "image_urls": ["/static/images/project_2_index.jpg", "/path1", "path2"]
+      "image_urls": ["/static/images/project_2_index.jpg", "/static/images/project_2_screenshot.jpg", "/static/images/project_2_screenshot_1.jpg", "/static/images/project_2_screenshot_2.jpg"]
     },
     {
       "id": 2,
@@ -31,7 +31,7 @@
       ],
       "live_link": "https://agalyanmann.github.io/techdegree-project-3",
       "github_link": "https://github.com/agalyanmann/techdegree-project-3",
-      "image_urls": ["/static/images/project_3_index.jpg", "/path1", "path2"]
+      "image_urls": ["/static/images/project_3_index.jpg", "/static/images/project_3_screenshot.jpg", "/static/images/project_3_screenshot_1.jpg", "/static/images/project_3_screenshot_2.jpg"]
     },
     {
       "id": 3,
