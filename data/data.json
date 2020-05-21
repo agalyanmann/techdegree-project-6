@@ -40,16 +40,16 @@
       "technologies": ["JavaScript", "HTML", "CSS"],
       "live_link": "https://agalyanmann.github.io/techdegree-project-4",
       "github_link": "https://github.com/agalyanmann/techdegree-project-4",
-      "image_urls": ["/static/images/project_4_index.jpg", "/path1", "path2"]
+      "image_urls": ["/static/images/project_4_index.jpg", "/static/images/project_4_screenshot.jpg", "/static/images/project_4_screenshot_1.jpg", "/static/images/project_4_screenshot_2.jpg"]
     },
     {
       "id": 4,
       "project_name": "Public API Request",
-      "description": "Directory that generates random employees using public API calls.",
+      "description": "Directory that generates random employees using public API calls, allows the user to view detailed info in a modal windows, and dynamically search to filter results.",
       "technologies": ["JavaScript", "HTML", "CSS"],
       "live_link": "https://agalyanmann.github.io/techdegree-project-5",
       "github_link": "https://github.com/agalyanmann/techdegree-project-5",
-      "image_urls": ["/static/images/project_5_index.jpg", "/path1", "path2"]
+      "image_urls": ["/static/images/project_5_index.jpg", "/static/images/project_5_screenshot.jpg", "/static/images/project_5_screenshot_1.jpg", "/static/images/project_5_screenshot_2.jpg"]
     }
   ]
 }
