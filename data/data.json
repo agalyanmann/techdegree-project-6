@@ -45,7 +45,7 @@
     {
       "id": 4,
       "project_name": "Public API Request",
-      "description": "Directory that generates random employees using public API calls, allows the user to view detailed info in a modal windows, and dynamically search to filter results.",
+      "description": "Directory that generates random employees using public API calls, allows the user to view detailed info in a modal window, and dynamically search to filter results.",
       "technologies": ["JavaScript", "HTML", "CSS"],
       "live_link": "https://agalyanmann.github.io/techdegree-project-5",
       "github_link": "https://github.com/agalyanmann/techdegree-project-5",
